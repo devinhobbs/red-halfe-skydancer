@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "devinhobbs",
+    "is_private": false,
+    "title": "Red - Louise B. Halfe, Sky Dancer",
+    "description": "This annotation project, completed for ENGL 483 at the University of Alberta, takes a close look at the poem \"Red\" by Louise B. Halfe. In this poem and recording, Halfe, whose Cree name is Sky Dancer, addresses Missing and Murdered Indigenous Women and Girls and discusses the poem after her performance.",
+    "language": "en",
+    "slug": "red-halfe-skydancer",
+    "creator": "devinhobbs",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-03-25T16:52:24.927Z",
+    "updated_at": "2025-03-25T16:52:24.927Z"
   }
 }
